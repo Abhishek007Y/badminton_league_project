@@ -25,7 +25,7 @@ A monolithic Rails application for managing badminton leagues — track players,
 ```bash
 # 1. Clone and enter project
 git clone <repo-url>
-cd badminton_league
+cd badminton_league_project
 
 # 2. Install dependencies
 bundle install
@@ -57,7 +57,7 @@ rails server
 ## File & Directory Structure
 
 ```
-badminton_league/
+badminton_league_project/
 │
 ├── app/
 │   ├── controllers/
